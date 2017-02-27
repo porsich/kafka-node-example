@@ -1,0 +1,13 @@
+{
+  "name": "Kafka",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "kafka-node": "^1.5.0"
+  }
+}
